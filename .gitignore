@@ -1,0 +1,8 @@
+## Comic Crawler Ignore File List ##
+
+*.log
+*.bak
+
+.DS_Store
+
+.chromedriver
