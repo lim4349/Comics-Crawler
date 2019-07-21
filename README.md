@@ -20,7 +20,9 @@ Only Tested In Mac OS and Chrome
 
 Need Chrome Browser, Selenium, Chrome Driver
 
-chrome driver link : http://chromedriver.chromium.org/downloads chrome driver must be with crawler.ipynb in same folder.
+chrome driver link : http://chromedriver.chromium.org/downloads 
+
+chrome driver must be with crawler.ipynb in same folder.
 
 Change Log
 
