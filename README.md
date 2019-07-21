@@ -14,7 +14,7 @@ Default texture quality is high option.
 
 If you want low-quality pictures, change a word in url 'hq' to 'lq'.
 
-Image will save as title/index.jpg
+Image will save as issue-name/index.jpg
 
 Only Tested In Mac OS and Chrome
 
